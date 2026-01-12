@@ -14,6 +14,6 @@ notebooks/
   04_time_series_cv_leakage_checks.ipynb
 data/
   (optional small sample csv)
-figures/ ///
+figures/ ```
 pip install -r requirements.txt
 jupyter notebook
