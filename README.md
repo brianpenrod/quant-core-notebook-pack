@@ -1,4 +1,4 @@
-# Quant Core: Financial Machine Learning Primitives
+# Quant Core: Decision-Quality Analytics (Time-Series Validation & Leakage Audits)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production-00CC96?style=flat)
